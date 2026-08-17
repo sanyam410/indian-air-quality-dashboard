@@ -83,14 +83,14 @@ A sensor malfunction was identified at the Bandra Kurla Complex, Mumbai station,
 ## Dashboard Preview
 
 ### Overview
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### City Detail
-![City Detail](city_detail.png)
+![City Detail](City_Detail.png)
 
 ### Pollutant Comparison
-![Pollutant Comparison](pollutant_comparison.png)
+![Pollutant Comparison](Pollutant_Comparison.png)
 
 ### Methodology & Data Quality
-![Methodology](methodology.png)
+![Methodology](Methodology.png)
 
