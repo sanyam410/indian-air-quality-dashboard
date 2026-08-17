@@ -1,5 +1,3 @@
-# Indian-air-quality-dashboard
-End-to-end air quality analytics pipeline for 5 Indian cities; live OpenAQ API data, MySQL, and an interactive Power BI dashboard tracking WHO/CPCB threshold breaches.
 # Indian Urban Air Quality Intelligence Dashboard
 
 ## Business Problem
@@ -85,14 +83,14 @@ A sensor malfunction was identified at the Bandra Kurla Complex, Mumbai station,
 ## Dashboard Preview
 
 ### Overview
-![Overview](screenshots/01_overview.png)
+![Overview](overview.png)
 
 ### City Detail
-![City Detail](screenshots/02_city_detail.png)
+![City Detail](city_detail.png)
 
 ### Pollutant Comparison
-![Pollutant Comparison](screenshots/03_pollutant_comparison.png)
+![Pollutant Comparison](pollutant_comparison.png)
 
 ### Methodology & Data Quality
-![Methodology](screenshots/04_methodology.png)
+![Methodology](methodology.png)
 
